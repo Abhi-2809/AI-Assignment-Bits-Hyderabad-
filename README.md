@@ -4,13 +4,13 @@ This repository contains the code for Assignment Questions as a part of CS F407 
 An **overview of each question** is given below.
 
 ### Assignment 1 <br />
-  1.<br />
-  2.<br />
-  3.<br />
+  Q1.<br />
+  Q2.<br />
+  Q3.<br />
 ### Assignment 2 <br />
-  1.<br />
-  2.<br />
-  3.<br />
+  Q1.<br />
+  Q2.<br />
+  Q3.<br />
 
 <br />
 <html>
