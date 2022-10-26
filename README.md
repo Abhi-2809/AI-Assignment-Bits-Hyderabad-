@@ -1,6 +1,7 @@
 # AI-Assignment-Bits-Hyderabad-
 
-This repository contains the code for Assignment Questions as a part of CS F407 Artificial Intelligence Course at BITS Pilani Hyderabad Campus. An overview of each question is given below.
+This repository contains the code for Assignment Questions as a part of CS F407 Artificial Intelligence Course at BITS Pilani Hyderabad Campus. 
+An overview of each question is given below.
 
 ### Assignment 1 <br />
   1.<br />
@@ -12,4 +13,4 @@ This repository contains the code for Assignment Questions as a part of CS F407 
   3.<br />
 
 <br />
-The detailed description and code for each Question is uploaded in the corresponding folders.
+_The detailed description and code for each Question is uploaded in the corresponding folders._
