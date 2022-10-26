@@ -13,4 +13,6 @@ An overview of each question is given below.
   3.<br />
 
 <br />
-_The detailed description and code for each Question is uploaded in the corresponding folders._
+<html>
+  <i>The detailed description and code for each Question is uploaded in the corresponding folders.</i>
+<\html>  
