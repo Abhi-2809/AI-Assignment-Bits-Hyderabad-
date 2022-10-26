@@ -15,4 +15,4 @@ An overview of each question is given below.
 <br />
 <html>
   <i>The detailed description and code for each Question is uploaded in the corresponding folders.</i>
-<\html>  
+</html>  
