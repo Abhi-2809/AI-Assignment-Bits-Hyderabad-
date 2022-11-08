@@ -4,7 +4,7 @@ This repository contains the code for Assignment Questions as a part of CS F407 
 An **overview of each question** is given below.
 
 ### Assignment 1 <br />
-  Q1.<br /> Messenger Bot based on Keyword Matching and Intent Recognition (No ML)
+  Q1. Messenger Bot based on Keyword Matching and Intent Recognition (No ML) <br />
   Q2.<br />
   Q3.<br />
 ### Assignment 2 <br />
