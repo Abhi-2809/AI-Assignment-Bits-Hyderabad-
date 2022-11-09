@@ -1,3 +1,3 @@
 TESTING
 
-Add picutre of intital and final states
+The intital and final states are shown below
