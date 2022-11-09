@@ -1,4 +1,4 @@
 To run the code just run the following command
 ```
- python .py
+ python AI_Assignment_2(Q2).py
 ```
