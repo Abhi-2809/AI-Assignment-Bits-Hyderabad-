@@ -2,9 +2,9 @@ This folder contains the code to create a messenger bot based on Keyword Macthin
 
 We have created our own corpus for recommending such eateries. The [*basic.aiml*](https://github.com/Abhi-2809/AI-Assignment-Bits-Hyderabad-/blob/main/AI_Assignment_1(Q1)/basic.aiml) files contains the code based on aiml to suggest users what they like to eat based on choice of food they enter. The bot responds to the user by matching the pattern of text user has entered. The bot can also inform the user about the current weather based on city they entered. We use the [OpenWeatherMap API](https://openweathermap.org/api) to retrieve this information
 
-To run the code just run the following commands 
+To run the code just run the following command
 ```
- python [test.py](https://github.com/Abhi-2809/AI-Assignment-Bits-Hyderabad-/blob/main/AI_Assignment_1(Q1)/test.py)
+ python test.py
 ```
 
  
