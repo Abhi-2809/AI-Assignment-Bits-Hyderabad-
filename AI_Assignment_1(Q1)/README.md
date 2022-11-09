@@ -4,7 +4,7 @@ We have created our own corpus for recommending such eateries. The [*basic.aiml*
 
 To run the code just run the following commands 
 ```
- *python test.py*
+ python [test.py](https://github.com/Abhi-2809/AI-Assignment-Bits-Hyderabad-/blob/main/AI_Assignment_1(Q1)/test.py)
 ```
 
  
