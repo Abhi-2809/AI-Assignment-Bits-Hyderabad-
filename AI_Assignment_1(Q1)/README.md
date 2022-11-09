@@ -10,4 +10,4 @@ To run the code just run the following command
 ```
 
  
-The conversations that take place are stored in the [chats.csv](https://github.com/Abhi-2809/AI-Assignment-Bits-Hyderabad-/blob/main/AI_Assignment_1(Q1)/chats.csv) file. This file keeps a note of the conversation between the huaman and bot.
+The conversations that take place are stored in the [chats.csv](https://github.com/Abhi-2809/AI-Assignment-Bits-Hyderabad-/blob/main/AI_Assignment_1(Q1)/chats.csv) file. This file keeps a note of the interaction between the huaman and bot.
