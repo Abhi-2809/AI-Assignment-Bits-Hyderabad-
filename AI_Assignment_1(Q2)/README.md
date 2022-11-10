@@ -1,5 +1,5 @@
 ## Steepest-Ascent Hill Climbing
-The dart board is filled with 12 sectors and each sector can perform 4 operations, rotate clockwise, rotate anticlockwise, shift down (till center). Given an *intital state* (Fig A), we need to design an effective heuristic approach using **Steepest Ascent Hill Climbing Algorithm** to reach *Goal State*.  (Fig B).  This folder contains the code for the given problem.
+The dart board is filled with 12 sectors and each sector can perform 4 operations, rotate clockwise, rotate anticlockwise, shift down (till center). Given an *intital state* (Fig A), we need to design an effective heuristic approach using **Steepest Ascent Hill Climbing Algorithm** to reach *Goal State*.  (Fig B).  This [file](https://github.com/Abhi-2809/AI-Assignment-Bits-Hyderabad-/blob/main/AI_Assignment_1(Q2)/AI_Assignment_1(Q2).ipynb) contains the code for the given problem.
 
 Further Notes:
 1. While performing the jump operation (shift down), the numbers will be swapped. For example
